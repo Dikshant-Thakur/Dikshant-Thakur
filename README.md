@@ -11,7 +11,7 @@
   <a href="mailto:dikshantthakur12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Dikshant-Thakur&color=00FFB3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Dikshant-Thakur&color=00FFB3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /> -->
 
 </div>
 
