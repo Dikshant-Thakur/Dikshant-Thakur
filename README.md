@@ -17,14 +17,14 @@
 
 ---
 
-## 👨🏻‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-> 🌍 Based in **Genoa, Italy** (Navigating autonomously)  
-> 🎓 Pursuing a **Master's in Robotics Engineering** > 🧠 Currently obsessed with **Autonomous Navigation, Advanced ROS2, and Computer Vision** > ⚡ *Philosophy:* "Everything is a Control Theory problem if you look hard enough."  
+> Based in **Genoa, Italy** (Navigating autonomously)  
+> Pursuing a **Master's in Robotics Engineering** >  Currently obsessed with **Autonomous Navigation, Advanced ROS2, and Computer Vision** > ⚡ *Philosophy:* "Everything is a Control Theory problem if you look hard enough."  
 
 ---
 
-## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 <div align="center">
 
@@ -48,25 +48,25 @@
 
 ---
 
-## 📂 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-> ### 🚗 Autonomous Navigation System
+> ###  Autonomous Navigation System
 > Built a full-stack autonomous navigation pipeline integrating SLAM, A*/RRT* path planning, and obstacle avoidance on a differential drive robot.
-> 🛠️ *`ROS2` • `Nav2` • `C++` • `Python`*
+>  *`ROS2` • `Nav2` • `C++` • `Python`*
 
-> ### 👁️ CV for Object Detection
+> ### CV for Object Detection
 > Implemented a real-time object detection and pose estimation pipeline for robotic manipulation tasks.
-> 🛠️ *`Python` • `OpenCV` • `YOLO` • `PyTorch`*
+>  *`Python` • `OpenCV` • `YOLO` • `PyTorch`*
 
-> ### 🎮 Control System Design
+> ###  Control System Design
 > Designed and simulated PID, LQR, and MPC controllers for various robotic systems to ensure stable operations.
-> 🛠️ *`MATLAB` • `Simulink` • `ROS2`*
+>  *`MATLAB` • `Simulink` • `ROS2`*
 
 ---
 
 <div align="center">
 
-## 📡 𝗣𝗶𝗻𝗴 𝗠𝗲
+## 𝗣𝗶𝗻𝗴 𝗠𝗲
 
 Got a robotics problem to solve or a good control theory debate? Let's connect! 🤖
 
