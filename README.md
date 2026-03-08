@@ -25,8 +25,8 @@ I'm a **Master's in Robotics** student, passionate about building intelligent ma
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dikshant-thakur&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant-thakur&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dikshant-Thakur&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant-Thakur&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </p>
 
 ---
@@ -44,4 +44,4 @@ I'm a **Master's in Robotics** student, passionate about building intelligent ma
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPKYp8VfQU7S/giphy.gif" width="200">
+<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="200" alt="Coding GIF">
