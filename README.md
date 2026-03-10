@@ -20,7 +20,7 @@
 ## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 > Based in **Genoa, Italy** (Navigating autonomously)  
-> Pursuing a **Master's in Robotics Engineering** >  Currently obsessed with **Autonomous Navigation, Advanced ROS2, and Computer Vision** >
+> Pursuing a **Master's in Robotics Engineering** >  Currently obsessed with **Autonomous Navigation, Advanced ROS2, and Computer Vision**
 
 > ⚡ *Philosophy:* "pratishtha anushasan parampara. means Tradition, Honor, and Discipline"  
 
