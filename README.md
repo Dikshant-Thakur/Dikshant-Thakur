@@ -6,6 +6,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Machines;Master's+in+Robotics;ROS2+%7C+Computer+Vision+%7C+Control+Theory;Turning+Coffee+into+Code" alt="Typing SVG" />
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/dikshant-thakur-11ab87137/"><img alt="LinkedIn"></a>
+
+</p>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/dikshant-thakur-11ab87137/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/ser_dikki"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:dikshantthakur12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
